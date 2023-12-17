@@ -1,0 +1,1 @@
+gcc snake.c -lncurses
